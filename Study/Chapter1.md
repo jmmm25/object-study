@@ -1,5 +1,3 @@
- https://github.com/ddd4117/object-study 
-
 # Object
 
 # 1장
